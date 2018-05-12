@@ -1,6 +1,13 @@
 # BikeUi
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+Trata-se de um projeto feito em NodeJS e Angular
+
+Utilizei o [Angular CLI](https://github.com/angular/angular-cli) versão 1.5.4.
+
+O projeto completo é composto por:
+
+superbikeapp-ui (Angular)  
+superbikeapp-backend  (Spring Boot)
 
 ## Development server
 
